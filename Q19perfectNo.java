@@ -1,3 +1,4 @@
+
 package Assignmen01;
 
 import java.util.Scanner;
@@ -25,3 +26,4 @@ public class Q19perfectNo {
 	}
 
 }
+
