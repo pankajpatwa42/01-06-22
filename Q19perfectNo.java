@@ -17,9 +17,9 @@ public class Q19perfectNo {
 				sum = sum+i;
 		}
 		if(sum==n1)
-			System.out.println(n+" is a perfect number. ");
+			System.out.println(n1+" is a perfect number. ");
 		else
-			System.out.println(n+" is not a perfect number. ");
+			System.out.println(n1+" is not a perfect number. ");
 
 		
 	}
