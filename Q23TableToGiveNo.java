@@ -2,7 +2,7 @@ package Assignmen01;
 
 import java.util.Scanner;
 
-public class Q22table {
+public class Q23TableToGiveNo {
 
 	public static void main(String[] args) {
 		int input;
@@ -17,7 +17,6 @@ public class Q22table {
 			}
 				System.out.println();
 		}
-		
 	}
 
 }
