@@ -23,8 +23,6 @@ public class Q12PrimeBetweenInterval {
 				flag = false;
 				break;
 				}
-//			else
-//				System.out.println(start);
 			
 		}
 		if(flag==true)
