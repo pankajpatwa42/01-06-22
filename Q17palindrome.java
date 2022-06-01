@@ -13,9 +13,9 @@ public class Q17palindrome {
 			temp =temp/10;
 		}
 		if(number==sum)
-			System.out.println("Palindrome");
+			System.out.println("Palindrome"+number);
 		else
-			System.out.println(" Not Palindrome");
+			System.out.println(" Not Palindrome"+number);
 
 	}
 
