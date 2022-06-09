@@ -27,8 +27,8 @@ public class Q12PrimeBetweenInterval {
 		}
 		if(flag==true)
 			System.out.println(start + " is a prime number.");
-		else
-			System.out.println(start + " is not a prime number.");
+//		else
+//			System.out.println(start + " is not a prime number.");
 		
 		++start;
 
